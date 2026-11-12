@@ -1,0 +1,5 @@
+cricket_matches.csv
+__pycache__/
+*.pyc
+venv/
+.env
