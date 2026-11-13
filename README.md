@@ -1,4 +1,4 @@
-# Cricket Match Scraper 🏏
+# Cricket Match Scraper 
 
 A simple Python web scraper that collects cricket match information from Cricbuzz using Requests and BeautifulSoup.
 
